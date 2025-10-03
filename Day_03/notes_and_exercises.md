@@ -200,7 +200,7 @@ graph LR
    - **Hard links:** Point to same inode, same filesystem only, file persists until all links removed
 
 ## Completion Checklist
-- [ ] Can navigate filesystem using cd, ls, pwd
+- [☑] Can navigate filesystem using cd, ls, pwd
 - [ ] Understand purpose of major directories (/bin, /etc, /home, /var, /usr)
 - [ ] Can identify file types using ls -l and file command
 - [ ] Created both symbolic and hard links
